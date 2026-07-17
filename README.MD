@@ -41,9 +41,10 @@
 
 ### Stats
 
+<!--
 ![huzaifadev15's GitHub stats](https://github-readme-stats.vercel.app/api?username=huzaifadev15&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifadev15&theme=dark&hide_border=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifadev15&theme=dark&hide_border=true&layout=compact) -->
 
 ### Experience
 
