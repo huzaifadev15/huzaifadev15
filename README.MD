@@ -42,10 +42,7 @@
 ### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huzaifadev15&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark" alt="GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifadev15&layout=compact&hide_border=true&theme=dark&langs_count=8" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com?user=huzaifadev15&theme=dark&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
