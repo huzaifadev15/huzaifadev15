@@ -15,7 +15,7 @@
 
 ### What I work on
 
-3+ years shipping production-grade platforms — ERP systems, contract intelligence tools, e-commerce storefronts, and AI integrations — helping startups move fast and scale with confidence.
+4+ years shipping production-grade platforms — ERP systems, contract intelligence tools, e-commerce storefronts, and AI integrations — helping startups move fast and scale with confidence.
 
 - **Shopify & e-commerce** — Liquid theming, Cart Transform Functions (Rust/WASM), headless storefronts, Shopify Admin API
 - **Payments** — Stripe, PayPal, Apple Pay, Google Pay with webhook-driven event handling for orders and subscriptions
